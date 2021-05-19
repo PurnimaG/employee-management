@@ -2,6 +2,10 @@
 
 ## Available Scripts
 
+To install project in root directory you can run:
+
+## npm install
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -14,7 +18,11 @@ You will also see any lint errors in the console.
 
 ## Start the json server
 
-Navigate to /data inside root folder. To start json server you can run:
+Navigate to /data inside root folder. To install json server in root directory you can run:
+
+## npm install
+
+To run json server you can run:
 
 ### `npm start`
 
