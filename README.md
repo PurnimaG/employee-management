@@ -15,7 +15,8 @@ You will also see any lint errors in the console.
 ## Start the json server
 
 Navigate to /data inside root folder. To start json server you can run:
-Open http://localhost:3006/employees to check employee information.
 
 ### `npm start`
+
+Open http://localhost:3006/employees to check employee information.
 
